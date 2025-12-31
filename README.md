@@ -1,1 +1,1 @@
-# AI-News-Room-Collaboration-Tool
+# AI-News-Room-Collaboration-Tool.
